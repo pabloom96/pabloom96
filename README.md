@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there 👋 My name is Pablo Ortiz Montúfar, and I'm a Data Scientist!</h1>
+  <img src="https://i.imgur.com/8KpcW6F.png" width="250px" style="border-radius:50%;">
 </div>
-<img src="https://imgur.com/8KpcW6F.png">
-
 
 <!--
 **pabloom96/pabloom96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
