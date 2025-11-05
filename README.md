@@ -63,15 +63,15 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">CML----Bank-Customer-Churn-Prediction</h3>
+<h3 align="center">CML----TeleCom-Customer-Churn-Prediction</h3>
 <div align="center">
-<a href="https://github.com/pabloom96/CML----Bank-Customer-Churn-Prediction" target="_blank"><img src="https://i.imgur.com/QAtgWEL.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/pabloom96/CML----Bank-Customer-Churn-Prediction" target="_blank"><img src="https://i.imgur.com/vOD6oGd.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/pabloom96/CML----Bank-Customer-Churn-Prediction" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Processed and visualized a bank’s customer database to analyze behavioral patterns and trends. Built a Machine Learning model that predicts customer churn or retention, highlighting the most influential features driving churn behavior.</p>
+<p>Processed and visualized a TeleCom customer database to analyze behavioral patterns and trends. Built a Machine Learning model that predicts customer churn or retention, highlighting the most influential features driving churn behavior.</p>
 </div>
                                                                                       
 </td>  
