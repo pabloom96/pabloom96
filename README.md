@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there 👋 My name is Pablo Ortiz Montúfar, and I'm a Data Scientist!</h1>
 </div>
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/8KpcW6F"  ><a href="//imgur.com/a/8KpcW6F">Banner</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+<img src="imgur.com/a/8KpcW6F">
 
 
 <!--
