@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">TS - Taxi Demand Forecasting</h3>
 <div align="center">
-<a href="https://github.com/pabloom96/TS---Taxi-Demand-Forecasting" target="_blank"><img src="https://i.imgur.com/Mq6veJe.png" width="400" alt="TS - Taxi Demand Forecasting"></a>
+<a href="https://github.com/pabloom96/TS---Taxi-Demand-Forecasting" target="_blank"><img src="https://i.imgur.com/4NoM7pu.png" width="400" alt="TS - Taxi Demand Forecasting"></a>
 <p>
 <a href="https://github.com/pabloom96/TS---Taxi-Demand-Forecasting" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -33,7 +33,7 @@
                <br>
 <h3 align="center">NLP---Sentiment Analysis on IMDB Reviews</h3>
 <div align="center">                                       
-<a href="[https://i.imgur.com/PxYQyBr.png](https://github.com/pabloom96/NLP---Sentiment-Analysis-on-IMDB-Reviews)" target="_blank"><img src="https://i.imgur.com/PxYQyBr.png" width="400" alt="NLP---Sentiment Analysis on IMDB Reviews"></a>
+<a href="https://github.com/pabloom96/NLP---Sentiment-Analysis-on-IMDB-Reviews" target="_blank"><img src="https://i.imgur.com/PxYQyBr.png" width="400" alt="NLP---Sentiment Analysis on IMDB Reviews"></a>
 <br>
 <p>
 <a href="https://github.com/pabloom96/NLP---Sentiment-Analysis-on-IMDB-Reviews" target="_blank">
