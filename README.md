@@ -12,13 +12,13 @@
 
 <br>
 
-## Personal Projects*
+## Personal Projects
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">TS - Taxi Demand Forecasting</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://i.imgur.com/Mq6veJe.png" target="_blank"><img src="https://i.imgur.com/Mq6veJe.png" width="400" alt="TS - Taxi Demand Forecasting"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
