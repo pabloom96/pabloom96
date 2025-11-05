@@ -7,8 +7,8 @@
 
 - 🔢 Data Scientist 🔢 
 - 🐄 Doctor in Veterinary Medicine
-- 📄 Más sobre mi trayectoria técnica en [Linkedin](www.linkedin.com/in/pabloom1996) 
-- 📜 Y de investigación [researchgate](https://www.researchgate.net/profile/Pablo-Ortiz-Montufar)
+- 📄 More about my technical background on [Linkedin](www.linkedin.com/in/pabloom1996) 
+- 📜 And about my research career at [ResearchGate](https://www.researchgate.net/profile/Pablo-Ortiz-Montufar)
 
 <br>
 
