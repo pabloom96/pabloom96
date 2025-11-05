@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there 👋 My name is Pablo Ortiz Montúfar, and I'm a Data Scientist!</h1>
-  <img src="https://i.imgur.com/8KpcW6F.png" width="250px" style="border-radius:50%;">
+  <img src="https://i.imgur.com/TGl65qK.png" width="250px" style="border-radius:50%;">
 </div>
 
 <!--
